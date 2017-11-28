@@ -10,4 +10,4 @@ he creat un altra arxiu Html i un altra arxiu css.
 
 En el repositori es podra veure els 2 arixus Html, els dos css i una carpeta de imatges nombrada img.
 
-Per error he creat dos branch de versio minimificada, el branch correte en el "minimificada"
+He creat un branch amb la versio del treball minimificada.
